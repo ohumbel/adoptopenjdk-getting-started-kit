@@ -1,16 +1,16 @@
-# Feedback & contribute to Adopt OpenJDK
+# Rückmeldungen und Mitarbeit bei Adopt OpenJDK
 
-Your feedback means a lot to us! As any questions on any one of these forms of social media:
+Deine Rückmeldungen bedeuten uns viel! Du kannst uns auf folgenden sozialen Medien Fragen stellen und uns Feedback geben:
 
        @adoptopenjdk
 
-*Join our mailing list:*
-* *email:* adoption-discuss@openjdk.java.net
-* *sign-up:* http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
+*Tritt unserer Mailing Liste bei:*
+* *E-Mail:* adoption-discuss@openjdk.java.net
+* *Anmeldung:* http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
 
 <br/>
-*Discontinued mailing list*
+*Nicht mehr aktive Mailing Listen:*
 * ~~adopt-openjdk@googlegroups.com~~
 * ~~https://groups.google.com/forum/?fromgroups#!forum/adopt-openjdk~~
 
-### How to contribute to Adopt OpenJDK
+### Wie kann ich bei Adopt OpenJDK mitmachen?

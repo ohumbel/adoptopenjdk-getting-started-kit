@@ -1,7 +1,7 @@
-# Summary
+# Inhalt
 
-* [Introduction](README.md)
-* [What's changed](whatsChanged.md)
+* [Einführung](README.md)
+* [Das hat sich kürzlich geändert](whatsChanged.md)
 * [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
    * [Beginners level](how-to-navigate/beginners-level.md)
    * [Intermediate level](how-to-navigate/intermediate-level.md)

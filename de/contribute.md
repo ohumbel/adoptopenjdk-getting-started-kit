@@ -1,40 +1,40 @@
-# How to contribute to this book ?
+# Wie kann ich an diesem Buch mitarbeiten ?
 
-## Contribute via GitBook
+## Mitarbeiten über GitBook
 
-Create an account on [Gitbook.com](http://www.gitbook.com/login) and [request to become a collaborator](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) to the [Adopt OpenJDK GitBook](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/)
+Eröffne ein Konto bei [Gitbook](http://www.gitbook.com/login) und [sende eine Anfrage zur Mitarbeit](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) beim [Adopt OpenJDK Git Buch](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/)
 
-Some [documentation](http://help.gitbook.com/) and [how to install GitBook](https://github.com/GitbookIO/gitbook) locally should also help in the process.
+Die [Dokumentation](http://help.gitbook.com/) und die [Anleitung zur lokalen Installation von GitBook](https://github.com/GitbookIO/gitbook) sind ebenfalls hilfreich.
 
-## Contribute via GitHub
+## Mitarbeiten über GitHub
 
-1. Create a fork
-Visit this website to create a fork: **https://github.com/neomatrix369/adoptopenjdk-getting-started-kit#fork-destination-box** 
+1. Forke das Projekt auf der folgenden Webseite: <br/> **https://github.com/neomatrix369/adoptopenjdk-getting-started-kit#fork-destination-box** 
 
-2. Clone your version into your workspace <br/>
+2. Klone deine Version in deinen lokalen Workspace <br/>
 ```git clone git@github.com:{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit.git```
 
-3. Add Upstream <br/>
+3. Konfiguriere das Original Repository als Upstream <br/>
 ```git remote add --track master upstream git://github.com/neomatrix369/adoptopenjdk-getting-started-kit.git```
 
-Now you can update your fork with the original repository:
-```git fetch upstream``` 
-and 
+So kannst du deinen Fork auf den Stand des originalen Repositories bringen: <br/>
+```git fetch upstream``` <br/>
+und dann <br/>
 ```git merge upstream/master```
 
-4. Commit modified files <br/>
-```git add <changes files / wild-card pattern>```<br/>
-```git commit -am "meaningful description about your changes"```
+Während des Arbeitens helfen die folgenden Befehle
+1. Commit geänderter Dateien <br/>
+```git add <changed files / wild-card pattern>```<br/>
+```git commit -am "sinnvolle Beschreibung deiner Änderungen"```
 
-5. Push files
+2. Push
 ```git push```
 
-6. Create a pull request
-Visit your repository on GitHub: https://github.com/{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit/pulls and click on New Pull Request button and create a new one.
+3. Erstellen eines Pull Requests <br/>
+Gehe zu deinem Repository auf GitHub: https://github.com/{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit/pulls und klicke auf den 'New Pull Request' Knopf
 
-## How to identify changes to the book ?
+## Wie finde ich heraus was geändert hat ?
 
-We have two [scripts](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit) in the root folder of the repo, that creates a <b>What's changed</b> markdown page, [like this one](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html).
+Es gibt zwei [Scripts](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit) im Hauptordner des Repositories. Diese erzeugen eine <b>What's changed</b> Markdown Seite. Auf Englisch sieht sie [so](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) aus.
 
 The [What's changed](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) markdown generator scripts are called [whatsChanged.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) and [whatsChangedForAllLanguages.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh).
 

@@ -38,4 +38,4 @@ Es gibt zwei [Scripts](https://github.com/neomatrix369/adoptopenjdk-getting-star
 
 Die beiden Scripts heissen  [whatsChanged.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) und [whatsChangedForAllLanguages.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh).
 
-Bitte zögere nicht, Verbesserungen oder Verbesserungsvorschläge einzubringen. Achte aber bitte darauf dass bestehende Funktionalität erhalten bleibt.
+Bitte zögere nicht, Verbesserungen oder Verbesserungsvorschläge einzubringen. Achte darauf, dass bestehende Funktionalität erhalten bleibt.

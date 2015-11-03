@@ -1,9 +1,10 @@
-# Handy scripts
+# Nützliche Scripts
 
-**Handy scripts to update, build and run tests**
+**Nützliche Scripts zum Updaten, Builden und Testen**
 
-Bash scripts that make make life easier
-```updateAndCleanBuildOpenJDK.sh``` - run once in a while or if you want a clean build
+Die folgenden bash Scripts erleichtern dir das Leben.
+
+```updateAndCleanBuildOpenJDK.sh``` - gedacht um ab und zu laufen zu lassen, oder falls du von Grund auf builden willst
 
 ```bash
 ./get_source.sh
@@ -11,7 +12,7 @@ bash configure
 make clean images
 ```
 
-```updateCleanBuildAndTestOpenJDK.sh``` - run once in a while or if you want a clean build & test
+```updateCleanBuildAndTestOpenJDK.sh``` - gedacht um ab und zu laufen zu lassen, oder falls du von Grund auf builden und testen willst
 
 ```bash
 ./get_source.sh
@@ -20,7 +21,7 @@ make clean images
 make test```
 
 
-```updateAndBuildOpenJDK.sh``` - run regularly (incremental build)
+```updateAndBuildOpenJDK.sh``` - gedacht um regelmässig laufen zu lassen (inkrementeller Build)
 
 ```bash
 ./get_source.sh
@@ -28,7 +29,7 @@ bash configure
 make images```
 
 
-```updateBuildAndTestOpenJDK.sh``` - run often
+```updateBuildAndTestOpenJDK.sh``` - oft laufen lassen
 
 ```bash
 ./get_source.sh
@@ -37,9 +38,9 @@ make images
 make test```
 
 <br/>
-__Simple example of changing the OpenJDK code-base and writing a client program to use the change__
+__Ein einfaches Beispiel für eine Anpassung an OpenJDK, und wie man einen Client schreibt der diese Anpassung testet__
 
-```buildAndRunTheChangedRandom.sh``` - run after changing the ChangeRandom.java file
+```buildAndRunTheChangedRandom.sh``` - nach der Anpassung an ChangeRandom.java laufen lassen
 
 ```bash
 ##### OpenJDK8

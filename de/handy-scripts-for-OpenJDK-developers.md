@@ -68,15 +68,15 @@ $IMAGES_FOLDER/jre/bin/java ChangeRandom
 ```
 
 <br/>
-**Running JTREG**
+**JTREG laufen lassen**
 
-```runJtregViaExecutable.sh``` - run JTREG via the $JTREG/bin/jtreg command
+```runJtregViaExecutable.sh``` - starte JTREG mit dem $JTREG/bin/jtreg Befehl
 
 ```
 $HOME/jtreg/linux/bin/jtreg -verbose:all  -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ $1
 ```
 
-```runJtregViaTheJarFile.sh``` - run JTREG via the $JTREG/lib/jtreg.jar command
+```runJtregViaTheJarFile.sh``` - starte JTREG mit dem  $JTREG/lib/jtreg.jar Befehl
 
 ```
 java -jar $HOME/jtreg/lib/jtreg.jar -verbose:all  -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ $1```

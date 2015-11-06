@@ -19,4 +19,4 @@ Untenstehend findest du eine Liste von Gruppen und Individuen, die aum Buch beig
 
 ####Möchtest du auch zu diesem Buch beitragen ?
 
-Infos findest du im Abschnitt [Wie kann ich mithelfen?](contribute.md)
+Infos findest du im Abschnitt [Wie kann ich an diesem Buch mitarbeiten?](contribute.md)

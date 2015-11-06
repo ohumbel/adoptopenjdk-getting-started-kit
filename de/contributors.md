@@ -1,22 +1,22 @@
-# Contributors
+# Mitarbeiter
 
-This e-book previously contained in two Google docs i.e. [Adopt OpenJDK Getting Started Kit](http://bit.ly/17ovGUB) and [Adopt OpenJDK Intermediate & Advance experiences document](http://bit.ly/1ckphOl) is a result of community contributions from all across the world.
+Dieses eBook ging aus zwei Google Dokumenten hervor, einerseits [Adopt OpenJDK Getting Started Kit](http://bit.ly/17ovGUB), und andererseits [Adopt OpenJDK Intermediate & Advance experiences document](http://bit.ly/1ckphOl). Es ist das Resultat von Community Beiträgen aus aller Welt.
 
-The document has grown especially during hackdays in London (host at the @salesforce office - support by @ljcjuc, @salesforce, @heroku, @hackthetower and @jr0cket).
+Das Buch wurde speziell während Hackdays in London geschrieben. Diese konnten in den Räumen von @salesforce abgehalten werden, massgeblich unterstützt von @ljcjuc, @salesforce, @heroku, @hackthetower und @jr0cket.
 
-Hack-a-thons, hackergarten and workshops held at various conferences across Europe have also helped developed them further.
+Auch Hack-a-thons, Hackergarten und Workshops an verschiedenen Konferenzen in Europa trugen zur Weiterentwicklung bei.
 
-Below is a list of contributors both individuals and groups (in no particular order):
+Untenstehend findest du eine Liste von Gruppen und Individuen, die aum Buch beigetragen haben (in keiner speziellen Reihenfolge):
 - London Java Community (LJC) 
     - Julius Gamanyi
     - Mike Burton
     - Mike Bateman
     - John Patrick
-    - and many members who participated at the hackdays
+    - and viele andere die an Hackdays teilnahmen
 - Mohan Radhakrishnan
 - BGJUG (Ivan, Martin, Dmitri)
 - CeJUG (Helio, Paulo) 
 
-####Want to contribute to this book ?
+####Möchtest du auch zu diesem Buch beitragen ?
 
-See under section [How to contribute to this book ?](contribute.md)
+Infos findest du im Abschnitt [Wie kann ich mithelfen?](contribute.md)

@@ -1,41 +1,41 @@
-R is used to parse the JMH benchmark data and plot these graphs.
+R wird benutzt, um die Daten eines JMH Benchmarks zu parsen und graphisch aufzubereiten.
 
 
-##Types of Error bars used to plot the diagram
+##Achsentypen des Diagramms
 
 <table>
     <thead>
     <tr>
-         <td>Error bars</td>
-         <td>Type</td>
-         <td>Description</td>
+         <td>Achsentypen</td>
+         <td>Art</td>
+         <td>Beschreibung</td>
     </tr>
     </thead>
     <tr>
-        <td>Standard error (SEM)</td>
-        <td>Inferential</td>
-        <td>A measure of how variable the mean will be, if you repeat the whole study many times.</td>
+        <td>Standardfehler des Mittelwerts (SEM)</td>
+        <td>Inferentiell</td>
+        <td>Ein Mass für die Variabilität des Mittelwerts, wenn die Studie sehr oft wiederholt wird.</td>
     </tr>
     <tr>
-        <td>Confidence interval (CI)</td>
-        <td>Inferential</td>
-        <td>A range of values one can be 99% confident contains the true mean.</td>
+        <td>Konfidenzintervall (CI)</td>
+        <td>Inferentiell</td>
+        <td>Ein Wertebereich der mit 99 % Sicherheit den echten Mittelwert enthält.</td>
     </tr>
 </table>
 
 ###Java Collections
 
-R summary
+R Zusammenfassung
 
 <table>
     <thead>
     <tr>
-         <td>Min.</td>
+         <td>Minimum</td>
          <td>1st Qu.</td>
          <td>Median</td>
-         <td>Mean</td>
+         <td>Mittelwert</td>
          <td>3rd Qu.</td>
-         <td>Max.</td>
+         <td>Maximum</td>
     </tr>
     </thead>
     <tr>

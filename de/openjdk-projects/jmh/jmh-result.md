@@ -102,11 +102,11 @@ java -XX:-TieredCompilation -Dbenc hmark.n=10000 -jar target/microbenchmarks.jar
     <thead>
     <tr>
          <td>Benchmark</td>
-         <td>Mode</td>
-         <td>Samples</td>
+         <td>Modus</td>
+         <td>Anzahl Messungen</td>
          <td>Score</td>
-         <td>Score error</td>
-         <td>Units</td>
+         <td>Score Fehler</td>
+         <td>Einheiten</td>
     </tr>
     </thead>
     <tr>

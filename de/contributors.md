@@ -1,4 +1,4 @@
-# Mitarbeiter
+# Mitarbeiter / Kontributoren
 
 Dieses eBook ging aus zwei Google Dokumenten hervor, einerseits [Adopt OpenJDK Getting Started Kit](http://bit.ly/17ovGUB), und andererseits [Adopt OpenJDK Intermediate & Advance experiences document](http://bit.ly/1ckphOl). Es ist das Resultat von Community Beiträgen aus aller Welt.
 

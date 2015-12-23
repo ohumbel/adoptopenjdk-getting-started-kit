@@ -99,6 +99,6 @@
    * [SonarQube](known-issues/known_issues_sonarqube.md)
 * [Nützliche Scripts für OpenJDK Entwickler](handy-scripts-for-OpenJDK-developers.md)
 * [Danksagung](thanks_and_support.md)
-* [Feedback & contribute to Adopt OpenJDK](feedback.md)
+* [Rückmeldungen und Mitarbeit bei Adopt OpenJDK](feedback.md)
 * [Contributors to this book](contributors.md)
 

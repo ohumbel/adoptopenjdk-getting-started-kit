@@ -1,3 +1,6 @@
-# OpenJDK mailing lists
+# OpenJDK Mailing Listen
 
-Join the OpenJDK mailing list where discussions on various openjdk and related projects (core-lib, build-infra, hotspot, gc, etc...) takes place at http://mail.openjdk.java.net/mailman/listinfo, and each of these lists correspond to the respective OpenJDK projects at http://openjdk.java.net/projects/.
+Tritt den OpenJDK Mailing Listen bei! Dort finden Diskussionen zu verschiedenen OpenJDK Themen und verwandten Projekten statt (`core-lib`, `build-infra`, `hotspot`, `gc`, etc...).
+
+Eine Übersicht aller Listen findest du hier: http://mail.openjdk.java.net/mailman/listinfo.
+Jede dieser Listen entspricht dem gleichnamigen OpenJDK Projekt auf http://openjdk.java.net/projects/.

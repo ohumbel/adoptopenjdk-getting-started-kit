@@ -1,4 +1,4 @@
-# Change java.c & run Hotspot from within Eclipse
-[Optional but an interesting challenge] 
+# Änderungen an java.c / Hotspot aus Eclipse laufen lassen
+[Optional, aber eine interessante Herausforderung] 
 
-Follow the instructions using [these instructions](http://bit.ly/12LxuQy).
+Folge diesen [Instruktionen](http://bit.ly/12LxuQy).

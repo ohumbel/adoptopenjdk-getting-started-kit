@@ -32,6 +32,8 @@ Während des Arbeitens helfen dir die folgenden Befehle:
 3. Erstellen eines Pull Requests <br/>
 Gehe zu deinem Repository auf GitHub <br/> https://github.com/{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit/pulls und klicke auf den 'New Pull Request' Knopf
 
+Falls dir eine Unzulänglichkeit auffällt und du nicht unbedingt einen Pull Request erstellen möchtest, sind wir auch sehr dankbar für Hinweise als github Issues.
+
 ## Wie finde ich heraus was geändert hat ?
 
 Es gibt zwei [Scripts](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit) im Hauptordner des Repositories. Diese erzeugen eine <b>What's changed</b> Markdown Seite. Sie ist immer Englisch und sieht [so](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) aus.

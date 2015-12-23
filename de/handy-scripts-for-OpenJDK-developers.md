@@ -1,6 +1,6 @@
 # Nützliche Scripts
 
-**Nützliche Scripts zum Updaten, Builden und Testen**
+**Nützliche Scripts zum Updaten, Builden und Testen von OpenJDK**
 
 Die folgenden bash Scripts erleichtern dir das Leben.
 

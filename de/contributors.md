@@ -6,7 +6,7 @@ Das Buch wurde speziell während Hackdays in London geschrieben. Diese konnten i
 
 Auch Hack-a-thons, Hackergarten und Workshops an verschiedenen Konferenzen in Europa trugen zur Weiterentwicklung bei.
 
-Untenstehend findest du eine Liste von Gruppen und Individuen, die aum Buch beigetragen haben (in keiner speziellen Reihenfolge):
+Untenstehend findest du eine Liste von Gruppen und Individuen, die zum Buch beigetragen haben (in keiner speziellen Reihenfolge):
 - London Java Community (LJC) 
     - Julius Gamanyi
     - Mike Burton

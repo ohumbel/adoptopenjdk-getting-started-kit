@@ -1,27 +1,28 @@
-# Project Nashorn (pronounced: ˈnaːshɔɐ̯n)
+# Projekt Nashorn (phonetisch: ˈnaːshɔɐ̯n)
 
-Javascript runtime for the JVM (follow-on from [Rhino](https://docs.oracle.com/javase/7/docs/technotes/guides/scripting/programmer_guide/)). 
+Nashorn ist eine Javascript Laufzeitumgebung in der JVM (und löst [Rhino](https://docs.oracle.com/javase/7/docs/technotes/guides/scripting/programmer_guide/) ab). 
 
-## Project:
+## Projekt:
 http://openjdk.java.net/projects/nashorn/
 
-Code base (OpenJDK8): <br/> http://hg.openjdk.java.net/jdk8/jdk8/nashorn
+Sourcen (OpenJDK8): <br/> http://hg.openjdk.java.net/jdk8/jdk8/nashorn
 
-Code base (OpenJDK9): <br/> http://hg.openjdk.java.net/jdk9/jdk9/nashorn
+Sourcen (OpenJDK9): <br/> http://hg.openjdk.java.net/jdk9/jdk9/nashorn
 
 **AvatarJS**
 
-NodeJS port on Nashorn (NodeJS on the JVM).
+Eine NodeJS Portierung basierend auf Nashorn (NodeJS in der JVM).
 
-Project: <br/>
-https://avatar-js.java.net/  https://avatar.java.net/
+Projekt: <br/>
+https://avatar-js.java.net/  
+https://avatar.java.net/
 
-Sources:  <br/>
+Sourcen:  <br/>
 https://java.net/projects/avatar-js/sources
 
-## Presentations
+## Präsentationen
 
-Here's a [presentation](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/en/openjdk-projects/JavaScript_J2D.pdf) from a BGJUG member at a Java conference in Sofia. It covers topics like Lambdas on Nashorn, AvatarJS, AvatarEE, etc...
+Hier ist eine [Präsentation](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/en/openjdk-projects/JavaScript_J2D.pdf) eines BGJUG Mitglieds, gehalten an einer Java Konferenz in Sofia. It covers topics like Lambdas on Nashorn, AvatarJS, AvatarEE, etc...
 
 ## Blog Posts
 

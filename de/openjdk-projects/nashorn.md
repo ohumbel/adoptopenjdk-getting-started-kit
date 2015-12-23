@@ -22,12 +22,12 @@ https://java.net/projects/avatar-js/sources
 
 ## Präsentationen
 
-Hier ist eine [Präsentation](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/en/openjdk-projects/JavaScript_J2D.pdf) eines BGJUG Mitglieds, gehalten an einer Java Konferenz in Sofia. It covers topics like Lambdas on Nashorn, AvatarJS, AvatarEE, etc...
+Hier ist eine [Präsentation](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/en/openjdk-projects/JavaScript_J2D.pdf) eines BGJUG Mitglieds, gehalten an einer Java Konferenz in Sofia. Sie behandelt Themen wie Lambdas mit Nashorn, AvatarJS, AvatarEE, etc...
 
-## Blog Posts
+## Blogs
 
-* [Java 8 Nashorn Tutorial by Benjamin Winterberg](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/)
+* Ein [Java 8 Nashorn Tutorial](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/) von Benjamin Winterberg
 
 ## IDE support
 
-[Source Code > Loading OpenJDK in the IDE](../source-code/loading_openjdk_in_intellij.md)
+[Laden des OpenJDK Source Codes in IntelliJ](../source-code/loading_openjdk_in_intellij.md)

@@ -46,7 +46,7 @@
    * [Projekt Nashorn](openjdk-projects/nashorn.md)
    * [JMH](openjdk-projects/jmh/jmh.md)
        * [Maven Abhängigkeiten](openjdk-projects/jmh/maven-dependencies.md)
-       * [Code im Test](openjdk-projects/jmh/system-under-test.md)
+       * [Java Code für den Test](openjdk-projects/jmh/system-under-test.md)
        * [JMH Benchmark](openjdk-projects/jmh/jmh-benchmark.md)
        * [JMH Resultate](openjdk-projects/jmh/jmh-result.md)
        * [Analyse mit R](openjdk-projects/jmh/analysisusingR.md)

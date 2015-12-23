@@ -1,6 +1,6 @@
-##JMH result
+##JMH Resultate
 
-Execute the benchmark
+Ausführung des Benchmarks
 
 `
 java -XX:-TieredCompilation -Dbenc hmark.n=10000 -jar target/microbenchmarks.jar -wi 5 -w 50ms -r 50ms -i 20 -f 1 " .*CollectionComparison.*"

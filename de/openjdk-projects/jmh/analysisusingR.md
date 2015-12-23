@@ -31,10 +31,10 @@ R Zusammenfassung
     <thead>
     <tr>
          <td>Minimum</td>
-         <td>erster Qu.</td>
+         <td>erstes Quartil</td>
          <td>Median</td>
          <td>Mittelwert</td>
-         <td>dritter Qu.</td>
+         <td>drittes Quartil</td>
          <td>Maximum</td>
     </tr>
     </thead>

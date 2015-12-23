@@ -1,12 +1,12 @@
-# Thanks and Support
+# Danksagung
 
-Thanks to **London Java Community**, its founder [Barry Cranford](http://twitter.com/bcrecworks), and JUG leaders [Martijn Verburg](http://twitter.com/karianna) & [Ben Evans](http://twitter.com/kittylyst) who are not going to be present at the event but their support has brought about all the material and experience to share with the the rest of you!
+Vielen Dank an die **London Java Community**, ihren Gründer [Barry Cranford](http://twitter.com/bcrecworks), und an die Leiter der Java User Gruppe [Martijn Verburg](http://twitter.com/karianna) & [Ben Evans](http://twitter.com/kittylyst). Sie waren am ursprünglichen Event nicht anwesend, steuerten aber wesentlichen Inhalt bei und unterstützen das Projekt mit all ihrer Erfahrung!
 
-Also you would like to know that [RecWorks](http://www.recworks.co.uk/) has been supporting LJC with all events and presentation activities, since the inception of the community.
+Nicht vergessen dürfen wir auch [RecWorks](http://www.recworks.co.uk/), die seit der Gründung der LJC alle Events und Präsentationen unterstützt haben.
 
-Thanks to [SouJava](http://soujava.org.br/) for helping us to get this book translated into Portuguese.
+Dank geht auch an [SouJava](http://soujava.org.br/) für deren Hilfe bei der Übersetzung ins Portugiesische.
 
-Not forgetting Oracle for its Open Source spirit & support!
+Nicht zuletzt möchten wir auch Oracle danken für ihren Open Source Spirit und ihren Support!
 
 ![](http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/148838.gif)
 

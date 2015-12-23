@@ -1,4 +1,4 @@
-# Nützliche Scripts
+# Nützliche Scripts für OpenJDK Entwickler
 
 **Nützliche Scripts zum Updaten, Builden und Testen von OpenJDK**
 

@@ -7,7 +7,7 @@
 
 ---
 
-** Alle nachstehenden Instruktionen und Tipps sind für die Öffentlichkeit und für Teilnehmer von Hackdays, Workshops und Hands-On-Sessions bestimmt. Ausgenommen davon ist das spezielle JUG Handout Template, das für Leiter von Java User Gruppen und Organisatoren von Events gedacht ist. **
+** Alle nachstehenden Instruktionen und Tipps sind für die Öffentlichkeit und für Teilnehmer von Hackdays, Workshops und Hands-On-Sessions bestimmt. Ausgenommen davon ist die spezielle JUG Handout Vorlage - sie ist für Leiter von Java User Gruppen und Organisatoren von Events gedacht. **
 
 Der Zweck dieses Dokuments ist es, Ersteinsteigern den Zugang zu OpenJDK zu erleichtern. Wir verweisen - wann immer möglich - auf standard Quellen wie http://adoptopenjdk.java.net und http://openjdk.java.net/. Das Dokument hat nicht den Anspruch, diese Quellen zu ersetzen.
 
